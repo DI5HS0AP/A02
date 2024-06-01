@@ -28,18 +28,18 @@ this is the video I used: https://www.youtube.com/watch?v=lYiE5lBS13E
 
 
 Definitions
-- Branch - A new/separate version of the main repository
-- Clone - A duplicate of the repository, usually downloaded.
-- Commit - To commit is to save the newest version of what you were working on
-- Fetch - Retrieves contents from a remote repository
-- GIT - program for managing source code
-- Github - Hosts a repository for that code
-- Merge - Integrating source branch content and combinging it with a target branch
-- Merge Conflict - When the merge doesn't work
-- Push - Uploads local branches to corresponding remote branches, (it sends the newer version in to update the old one stored in the repository)
-- Pull - Updates a local branch with its remote version
-- Remote - Anything outside of the local machine (Things stored on Github's server)
-- Repository - A place to store files and file revision history of a created projectg
+- **Branch** - A new/separate version of the main repository
+- **Clone** - A duplicate of the repository, usually downloaded.
+- **Commit** - To commit is to save the newest version of what you were working on
+- **Fetch** - Retrieves contents from a remote repository
+- **GIT** - program for managing source code
+- **Github** - Hosts a repository for that code
+- **Merge** - Integrating source branch content and combinging it with a target branch
+- **Merge Conflict** - When the merge doesn't work
+- **Push** - Uploads local branches to corresponding remote branches, (it sends the newer version in to update the old one stored in the repository)
+- **Pull** - Updates a local branch with its remote version
+- **Remote** - Anything outside of the local machine (Things stored on Github's server)
+- **Repository** - A place to store files and file revision history of a created projectg
 
 
 
